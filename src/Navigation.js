@@ -10,13 +10,13 @@ function ContainerOutsideExample() {
         <Nav class="navbar fixed-top ">
           <Container>
             FRIENDS DATABASE
-            <Navbar.Brand className="navbar-dark bg-dark" href="#">
+            <Navbar.Brand className="navbar-dark bg-dark" href="/login">
               LOGIN.
             </Navbar.Brand>
-            <Navbar.Brand className="navbar-dark bg-dark" href="#">
+            <Navbar.Brand className="navbar-dark bg-dark" href="/friends">
               FRIENDLIST.
             </Navbar.Brand>
-            <Navbar.Brand className="navbar-dark bg-dark" href="#">
+            <Navbar.Brand className="navbar-dark bg-dark" href="f">
               ADDFRİEND.
             </Navbar.Brand>
             <Navbar.Brand className="navbar-dark bg-dark" href="#">
